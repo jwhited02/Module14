@@ -4,7 +4,7 @@ At the beginning, this challenge went pretty smoothly for me. I was able to get 
 ##
 The app.js file is located in the "Static" folder
 The index.html is located in the main directory 
-Github Pages link: https://jwhited02.github.io/Module-14-Challenge/
+Github Pages link: https://jwhited02.github.io/Module14/
 ##
 Thank you for taking the time to grade my assignment! 
 ##
